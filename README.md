@@ -13,7 +13,7 @@ https://github.com/cognitivemetropolis/AMENDMENT1_1.0/releases
 
 3) Insert your MicroSDHD Card into your computer and start Etcher.  The Etcher site explains how to use the tool and details
 what to do.  However, here is an overview: 
-  -find the .img file (AMENDMENT1_1.0-Master.img) by clicking "Select Image" in Etcher.
+  -find the .img file (AMENDMENT1_1.0.img) by clicking "Select Image" in Etcher.
   -click "Select Drive" and locate the MicroSDHD card inserted into your computer
   -click "Flash" and wait for completion (you may have to enter the admin password to begin)
   
