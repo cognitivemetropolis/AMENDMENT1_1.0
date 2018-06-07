@@ -1,5 +1,5 @@
 # AMENDMENT1_1.0
-Release 1.0 for RaspberryPi3 B+
+Release 1.0 for RaspberryPi3 B
 Installing and using AMENDMENT1 OS.  To start you should have a 4GB (or larger is fine but not beneficial) Class 10 (Class 4 or 
 better will do) MicroSDHD card and a Raspberry Pi 3.  Both of these pieces of hardware can be found online or at a local vendor
 of choice. We recommend NewEgg, Fry's Electronics, or MicroCenter. You will also need a computer.  To make things super-easy, we'll
